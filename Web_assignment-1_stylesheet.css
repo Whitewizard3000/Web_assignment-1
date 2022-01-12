@@ -1,0 +1,51 @@
+.DivHead{
+    margin-left:20%;
+    margin-block-end: 10px;
+    padding: 10px;
+    border: none;
+    width:900px;
+    background:rgba(221, 216, 216, 0.514);
+    text-align: center;
+    border-radius: 5px;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 10px;
+    text-align: center;
+    color:black;
+    text-shadow: 2px 2px 2px white;
+}
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:black; 
+    text-shadow: 2px 2px 2px white;
+}
+body{
+    background-image: url(https://images-sg.girlstyle.com/wp-content/uploads/2020/10/chihiro043.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Image{
+    height: 550px;
+    width: 450px;
+    border-radius: 1%;
+    float: right;
+    margin-right: 300px;
+    opacity: 0.9;
+}
+.para{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:large;
+    font-weight:540;
+    text-align:justify;
+    background: rgba(253, 253, 253, 0.514);
+    width: 350px;
+    height: 450px;
+    border:none;
+    padding: 50px;
+    margin-left: 20%;
+    border-radius: 5px;
+}
+
